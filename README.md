@@ -43,3 +43,7 @@ $ docker run \
     -v /home/user1/savedata:/var/games/dosbox \
     classiccontainers/doom2
 ```
+
+## Disclaimer
+
+This project is intended for educational purposes only.
